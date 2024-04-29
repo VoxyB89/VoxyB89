@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate game/other developer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voxyb89&label=Profile%20views&color=0e75b6&style=flat" alt="voxyb89" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=voxyb89&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="voxyb89" /> </p>
 
 - 🔭 I’m currently working on [Ricon MC TEST SERVER](https://github.com/VoxyB89/RiconTestServer-MC) (private rep)
 
