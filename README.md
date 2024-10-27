@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voxyb89&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="voxyb89" /> </p>
 
-- 🙌 Proud of my almost finished project the [Shutdown-Timer](https://github.com/VoxyB89/Avrixfal-Shutdown-Timer/) (public rep)
+- 🙌 Proud of my almost finished project the [Shutdown-Timer](https://github.com/VoxyB89/Avrixfal-Shutdown-Timer/) (public rep) 
+
+- ❤️ Finished Project [Date Display App](https://voxyb89.github.io/Date-Display-App/). Website Link: https://voxyb89.github.io/Date-Display-App/
 
 - 🔭 I’m currently working on [Ricon MC TEST SERVER](https://github.com/VoxyB89/RiconTestServer-MC) (private rep)
 
