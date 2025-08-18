@@ -17,13 +17,13 @@
 - 🔭 I’m currently working on <a href="https://github.com/StellarFN/">Stellar FN - OGFN Project</a> (private rep)
 
 <p align="center">
-- 📫 Inorder To Contact Me, You Have To Join <a href="https://discord.gg/stellarfn">Stellar</a> :>
+- 📫 Inorder To Contact Me, You Have To Go To My <a href="https://www.youtube.com/@adrixyy">Youtube Channel</a> :>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="####" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crystalvoxyyt" height="30" width="40" /></a>
-<a href="####" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adrixyy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adrixyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adrixyy" height="30" width="40" /></a>
 <a href="https://discord.gg/stellarfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="E9dh4FrMt2" height="30" width="40" /></a>
 </p>
 
