@@ -14,7 +14,7 @@
 - ❤️ Finished Project <a href="https://voxyb89.github.io/Date-Display-App/">Date Display App</a>. Website Link: https://voxyb89.github.io/Date-Display-App/
 
 <p align="center">
-- 🔭 I’m currently working on <a href="https://github.com/StellarFN/">Stellar FN - OGFN Project</a> (private rep)
+- 🔭 I’m currently working on something
 
 <p align="center">
 - 📫 Inorder To Contact Me, You Have To Go To My <a href="https://www.youtube.com/@adrixyy">Youtube Channel</a> :>
